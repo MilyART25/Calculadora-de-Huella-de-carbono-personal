@@ -36,8 +36,8 @@ public class Recomendacion {
     }
 
     private static String determinarNivel(double co2) {
-        if (co2 > 300) return "ALTA";
-        else if (co2 >= 100) return "MEDIA";
+        if (co2 > 416) return "ALTA";
+        else if (co2 >= 166) return "MEDIA";
         else return "BAJA";
     }
 }
