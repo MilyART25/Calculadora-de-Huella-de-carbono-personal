@@ -1,0 +1,8 @@
+Fecha,Categoria,Detalle1,Detalle2,Cantidad,Emision_kgCO2
+2026-05-18,Transporte,CARRO,DIESEL,20.0 km,6.0
+2026-05-18,Alimentacion,MEDIA,21.0 comidas,63.0
+2026-05-18,Consumo,SEGUNDA_MANO,23.0 prendas,92.0
+2026-05-18,Transporte,MOTO,GASOLINA,32.0 km,4.8
+2026-05-18, Transporte, CARRO, GASOLINA, 120.0 km, 30.0
+2026-05-18, Alimentacion, MEDIA, 3.0 comidas, 9.0
+2026-05-18, Consumo, NUEVA_NACIONAL, 10.0 prendas, 100.0
